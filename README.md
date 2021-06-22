@@ -12,4 +12,4 @@ Breadboard sheld (To make whole circuit as tiny as possible)
 Wire and plug to supply power to arduino
 
 We also used 3D printer to make perfect case to cover the alarm clock and attach servo moter on the switch pricisely.
-Finding precise distance between the wall and servo is important.
+Finding precise distance between the wall and servo is important. 
