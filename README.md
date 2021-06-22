@@ -1,5 +1,5 @@
 # SwitchPressAlarmClock
-Arduino project done by team <Arduiner>, Ewha girls' highschool 2020
+Arduino project done by team Arduiner, Ewha girls' highschool 2020
 This alarm clock can press your light switch automatically.
 
 You will need following stuffs;
